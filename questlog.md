@@ -11,3 +11,5 @@ Schließlich erreichte Markus einen versteckten Raum im Dungeon, in dem ein myst
 Erfrischt und gestärkt machte sich Markus auf den Weg, um die letzte Etappe seiner Quest zu erfüllen. Er kämpfte gegen eine Horde von untoten Kreaturen und bestand Prüfungen, die kaum ein anderer Held überlebt hätte.
 
 Er machten sich auf den Weg in den Finalen Raum in dem der Boss wartete der das Amulett bewacht.
+
+Als er gegen den Boss kämpft wird er von einem verherred angriff getroffen.
